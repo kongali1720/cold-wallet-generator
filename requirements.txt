@@ -1,0 +1,6 @@
+qrcode[pil]
+ecdsa
+fpdf
+mnemonic
+eth-account
+base58
