@@ -46,9 +46,7 @@
 > Example of generated wallet with QR codes.
 
 <p align="center">
-  <a href="https://mydonation4ds.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/SUPPORT--NOW-%F0%9F%A7%A1-orange?style=for-the-badge&logo=heart" />
-  </a>
+     <img src="https://github.com/kongali1720/cold-wallet-generator/raw/main/cold_wallet_generator_kongali1720.jpg" width="500"/> </p>
 </p>
 
 ---
